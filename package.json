@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-loader",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> c93b6150bf318b6a7892f0c83b12c1a6a95f5140
   "title": "Semantic UI - Loader",
   "description": "Single component release of loader",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> c93b6150bf318b6a7892f0c83b12c1a6a95f5140
   "devDependencies": {}
 }
