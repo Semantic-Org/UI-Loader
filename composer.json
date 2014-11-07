@@ -10,5 +10,9 @@
   }],
   "keywords": ["semantic", "ui", "css", "framework"],
   "license": "MIT",
+<<<<<<< HEAD
   "version": "1.0.0-beta"
+=======
+  "version": "1.0.0"
+>>>>>>> c93b6150bf318b6a7892f0c83b12c1a6a95f5140
 }
