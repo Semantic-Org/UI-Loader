@@ -1,4 +1,4 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **Button** - Now has CSS loaders to allow loading state to maintain other styles
 - **Form** - Inverted form now properly styles loader
