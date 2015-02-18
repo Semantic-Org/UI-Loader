@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-loader',
   summary : 'Semantic UI - Loader (official): Single component release of loader',
-  version : '1.9.0',
+  version : '1.9.9',
   git     : 'git://github.com/Semantic-Org/UI-Loader.git',
 });
 
