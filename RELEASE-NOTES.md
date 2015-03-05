@@ -1,3 +1,7 @@
+### Version 1.11.0 - March 3, 2015
+
+- **Loader** - `inline loader` now has a `centered` variation
+
 ### Version 1.0.1 - November 28, 2014
 
 - **Site** - Add protocol variable for Google Font loader to avoid issues with ``//`` when loading locally causing freezing
