@@ -1,3 +1,8 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Loader** - Fix position of `inline centered loader` to be centered correctly
+- **Search** - Fix `loading search` with an `icon button` causing double loaders.
+
 ### Version 1.11.0 - March 3, 2015
 
 - **Loader** - `inline loader` now has a `centered` variation
